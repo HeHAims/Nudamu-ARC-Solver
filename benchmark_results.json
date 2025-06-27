@@ -1,0 +1,18 @@
+[
+  {
+    "task_id": "task_000",
+    "score": 1.0,
+    "duration": 0.0,
+    "patterns": [
+      "complete_transform"
+    ]
+  },
+  {
+    "task_id": "task_001",
+    "score": 1.0,
+    "duration": 0.0,
+    "patterns": [
+      "identity"
+    ]
+  }
+]
